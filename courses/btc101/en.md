@@ -1293,9 +1293,3 @@ Changing the financial system requires changing the currency. Satoshi created Bi
 ## Conclusion
 <chapterId>44d01865-5c89-55a5-a397-a014960eec0f</chapterId>
 <isCourseConclusion>true</isCourseConclusion>
-
-A grading system for the training will soon be integrated into this new E-learning platform! In the meantime, thank you very much for taking the course and if you enjoyed it, please consider sharing it with others.
-
-A huge thank you to our Patreon supporters, members, and donors for their financial support, thank you to the people who share, and thank you to those who made this training possible: Rachel, Muriel, the StackinSat team, JohnOnChain, Fanis, Guillaume, Lounes, the proofreaders, and the reviewers.
-
-See you soon!
